@@ -1,0 +1,24 @@
+{
+    "id": "3FF1351E",
+    "path": "X:/GitWeb/academic20200808/config/_default/menus.toml",
+    "project_path": "config/_default/menus.toml",
+    "type": "toml",
+    "hash": "2424745526",
+    "contents": "",
+    "dirty": false,
+    "created": 1597045287562.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "25,8",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1597047812,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1597047812665,
+    "read_only": false,
+    "read_only_alternatives": []
+}
